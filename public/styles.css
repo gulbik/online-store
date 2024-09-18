@@ -1,0 +1,168 @@
+.card{
+    margin-top: 10px;
+    text-align: center;
+    
+}
+.container{
+    max-width: 1200px;
+    margin: auto;
+}
+
+.carousel {
+    max-width: 1100px;
+    margin: 70px 50px auto;
+}
+.carousel-item img {
+    height: 600px;
+    width: 1100px;
+    object-fit: cover;
+}
+.carousel-caption-shop{
+    background-color: #D1E2F3;
+    bottom: 0; 
+    padding-top: 2px;
+    /* padding: 5px 5px 0;  */
+}
+.carousel-caption {
+    bottom: 0;
+}
+
+.carousel-caption h3{
+    color: black;
+    font-weight: 600;
+}
+.carousel-caption-firstorder {
+    bottom: 20px;
+    color: gray;
+}
+.carousel-control-next-icon,
+.carousel-control-prev-icon{
+    background-color:rgb(158, 158, 168);
+}
+
+.product-photo{
+    margin: 10px auto;
+    height: 230px;
+    width: 80%;
+    object-fit: contain;
+}
+
+nav{
+    background-color: #F7E8E5;
+    overflow: hidden; 
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 3;
+}
+
+.nav-item{
+    padding: 6px;
+}
+
+a{
+    text-decoration: none;
+    color: gray;
+    font-weight: 600;
+}
+.search-form{
+    background-color: #F7E8E5;
+    border: 1px solid gray;
+    margin-right: 20px;
+}
+.filter-toggle{
+    margin-top: 25px;
+    gap: 400px;
+}
+
+.filter-img{
+    height: 30px;
+    width: 30px;
+    margin: auto 0;
+    
+}
+
+.page-name{
+    text-align: center;
+    color: #93453C;
+}
+.price{
+ font-weight: 700;
+}
+
+.cart-total{
+    background-color: #F7E8E5;
+    border-radius: 30px;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 20px;
+    padding-top: 10%;
+    border: 2px solid gray;
+}
+.total-price{
+    font-size: 35px;
+    margin-bottom: 50px;
+}
+.total-heading{
+    font-weight: 300;
+}
+.checkout-button{
+    background-color: black;
+    color: aliceblue;
+    border-radius: 50px;
+    margin-top: 30px;
+    width: 120px;
+    height: 45px;
+}
+
+.pagination{
+    margin: 40px 0;
+    justify-content: center;
+}
+
+.pagination button{
+    background-color: darkgray;
+    border-radius: 10px;
+    border: none;
+    width: 80px;
+    height: 30px;
+}
+
+.text-red{
+    color: white;
+    background-color: red;
+    border-radius: 5px;
+    font-size: small;
+    padding: 0 4px;
+    margin: 0 2px;
+}
+
+.quantity-btn {
+    border-radius: 50%;
+    border: none;
+    height: 30px;
+    width: 30px;
+}
+
+.color-in-cart {
+    height: 20px;
+}
+
+.color-in-cart div {
+    height: 15px;
+    width: 15px;
+    margin: 5px;
+}
+
+.form-check-label{
+    margin-right: 20px;
+    margin-left: 4px;
+}
+
+.show-available-colors{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    margin: 0 5px;
+    cursor: pointer;
+}
