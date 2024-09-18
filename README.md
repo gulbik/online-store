@@ -1,8 +1,18 @@
-# React + Vite
+# Online Store
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Описание
+"Online Store" — это веб-приложение для интернет магазина с базовым функционалом авторизаций пользователей, избранное, корзина для товаров с акцентом на фильтрацию и сортировку. 
 
-Currently, two official plugins are available:
+## Функционал
+- Поиск и сортировка
+- Фильтрация по цене и цветам
+- Выбор цвет товара
+- Добавление в корзину и избранное
+- Пагинация
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Стек: React, JavaScript, Json Server
+
+
+<img width="645" alt="Снимок экрана 2024-09-19 в 01 51 16" src="https://github.com/user-attachments/assets/cbcc2f0c-0b0a-4e98-b1b1-ed51c69a3881">
+
+<img width="1242" alt="Снимок экрана 2024-09-19 в 01 53 21" src="https://github.com/user-attachments/assets/e5039d59-027d-40eb-a1e0-2fe8b0c1e473">
